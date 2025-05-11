@@ -84,5 +84,5 @@ This simulates how malware might decrypt and execute a payload **only when certa
 
 Record what the application does in Word document.
 
-Once complete, submit the document to D2L for your lab submission.
+Once complete, submit the document to D2L for your lab submission..
 
