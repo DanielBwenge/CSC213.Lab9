@@ -7,6 +7,8 @@ public class Reflector {
 	// Note - we only have the .class file - not the original source code! But that does not stop
 	// us from getting some human readable information about what methods are in there!
 	// You can even call or invoke these methods - though that is what you will need to do in the lab!
+        // Define a placeholder MysteryToolbox class to resolve the error
+        class MysteryToolbox {}
         Class<?> clazz = MysteryToolbox.class;
 
         System.out.println("🔎 Inspecting class: " + clazz.getName());
